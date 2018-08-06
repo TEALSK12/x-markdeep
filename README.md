@@ -1,10 +1,11 @@
 Experiment: GitHub-Hosted Curriculum via Markdeep
 ==================================================
 
-Can we find a way to jettison GitBook, switch to the more powerful Markdeep language, and host it
-for free on GitHub? Yup!
+The contents of this experiment have been integrated into the `apcsa-public` repo, under
+`lab/markdeep-curriculum`. This repo is left for the time being, as it hosts an early sketch of the
+result, hosted from GitHub:
 
-[APCSA Curriculum Sketch](https://tealsk12.github.io/x-markdeep/curriculum/SUMMARY.md.html)
+- [APCSA Curriculum Sketch](https://tealsk12.github.io/x-markdeep/curriculum/SUMMARY.md.html)
 
 This repo is temporary, but hopefully the results will not be.
 
